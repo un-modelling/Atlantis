@@ -4,7 +4,7 @@ Building local energy-planning capacity in countries can greatly benefit from an
 
 See a visualization for this model: http://www.osemosys.org/visualisation.html
 
-Recent publications : 
+References : 
 [1](http://www.sciencedirect.com/science/article/pii/S0301421511004897)
 [2](http://www.sciencedirect.com/science/article/pii/S0360544212006299)
 [3](http://www.worldbank.org/content/dam/Worldbank/Feature%20Story/Africa/Conference%20Edition%20Enhancing%20Africas%20Infrastructure.pdf)
